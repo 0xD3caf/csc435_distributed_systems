@@ -1,0 +1,11 @@
+package csc435.app;
+
+public enum MessageTypes {
+    REGISTER_REQUEST,
+    REGISTER_RESPONSE,
+    SEARCH_REQUEST,
+    SEARCH_RESPONSE,
+    INDEX_REQUEST,
+    INDEX_RESPONSE,
+    QUIT_REQUEST
+}
